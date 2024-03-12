@@ -1,4 +1,4 @@
-package org.example;
+package application;
 
 import application.service.CalculatorApp;
 import org.junit.Before;
